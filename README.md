@@ -1,8 +1,8 @@
-<h1 align="center">Chào 👋, mình là Nguyễn Hồng Nguyên</h1>
-<h3 align="center">Mình đến từ Thành phố Hồ Chí Minh</h3>
+<h1 align="center">Chào 👋, tôi là Nguyễn Hồng Nguyên</h1>
+<h3 align="center">Tôi đến từ Thành phố Hồ Chí Minh</h3>
 
-- 🌱 Hiện mình đang học **Đại học**
+- 🌱 Hiện tôi đang học **Đại học**
 
-- 📫 Liên hệ với mình qua email **nhn27092005@gmail.com**
+- 📫 Liên hệ với tôi qua email **nhn27092005@gmail.com**
 
 
